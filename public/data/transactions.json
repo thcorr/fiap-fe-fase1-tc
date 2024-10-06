@@ -1,0 +1,44 @@
+[
+  {
+    "id": 6,
+    "description": "Depósito",
+    "amount": "200",
+    "date": "2024-10-05T18:15:08.980Z",
+    "user_id": 1
+  },
+  {
+    "id": 7,
+    "description": "Transferência",
+    "amount": 50.22,
+    "date": "2024-10-06T01:55:33.238Z",
+    "user_id": 1
+  },
+  {
+    "id": 10,
+    "description": "Depósito",
+    "amount": 500,
+    "date": "2024-03-06T02:31:58.440Z",
+    "user_id": 1
+  },
+  {
+    "id": 11,
+    "description": "Depósito",
+    "amount": 500,
+    "date": "2024-03-08T02:31:58.440Z",
+    "user_id": 1
+  },
+  {
+    "id": 12,
+    "description": "Depósito",
+    "amount": 500,
+    "date": "2024-05-06T02:31:58.440Z",
+    "user_id": 1
+  },
+  {
+    "id": 14,
+    "description": "Depósito",
+    "amount": 1000,
+    "date": "2024-10-06T19:55:58.962Z",
+    "user_id": 1
+  }
+]
